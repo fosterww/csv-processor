@@ -19,7 +19,7 @@ Installation
     Clone the repository:
     bash
 
-git clone https://github.com/your-username/csv-processor.git
+git clone https://github.com/fosterww/csv-processor.git
 cd csv-processor
 Create and activate a virtual environment:
 bash
@@ -102,8 +102,6 @@ About
 This project was built to practice Python data processing skills, including Pandas, error handling, and CLI development. It’s part of my portfolio to demonstrate backend and data manipulation capabilities for a Junior Python Developer role.
 Contact
 
-    GitHub: your-username
-    LinkedIn: your-linkedin
-    Email: your.email@example.com
+    GitHub: fosterww
 
 Feel free to star this repository or provide feedback!
