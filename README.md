@@ -2,7 +2,7 @@
 
 A Python script to parse and summarize CSV data using Pandas. This project demonstrates data processing, error handling, and command-line interface (CLI) development.
 
-## ✨ Features
+##  Features
 
 - **Load CSV**: Reads a CSV file into a Pandas DataFrame with robust error handling.
 - **Summarize Data**: Computes:
@@ -13,7 +13,7 @@ A Python script to parse and summarize CSV data using Pandas. This project demon
 - **CLI**: Accepts CSV file path via command-line arguments.
 - **Portfolio-Ready**: Clean, modular, PEP 8-compliant code.
 
-## 📦 Prerequisites
+##  Prerequisites
 
 - Python 3.10 or higher
 - Pandas
@@ -24,7 +24,7 @@ Install with:
 pip install pandas
 ```
 
-## 📥 Installation
+##  Installation
 
 Clone the repository and set up your environment:
 
@@ -46,7 +46,7 @@ Install dependencies:
 pip install pandas
 ```
 
-## 🚀 Usage
+##  Usage
 
 Prepare a CSV file named `data.csv`:
 
@@ -64,7 +64,7 @@ Run the script:
 python csv_processor.py data.csv
 ```
 
-### 📤 Output
+###  Output
 
 Console:
 ```
@@ -84,7 +84,7 @@ Total Salary: 227000
 Department Counts: {'HR': 2, 'IT': 2}
 ```
 
-## 🧪 Testing
+##  Testing
 
 - ✅ Valid CSV: Run with a well-formed CSV to verify output.
 - ⚠️ Edge Cases:
@@ -101,16 +101,16 @@ pip install flake8
 flake8 csv_processor.py
 ```
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add visualizations (e.g., bar charts with Matplotlib)
 - Support multiple CSV files and custom metrics
 - Add web interface for interactive exploration
 
-## 👨‍💻 About
+##  About
 
 This project was created to practice backend and data manipulation skills using Python and Pandas. It’s part of my portfolio to showcase capabilities for junior-level development roles.
 
-## 📬 Contact
+##  Contact
 
 - **GitHub**: [fosterww](https://github.com/fosterww)
