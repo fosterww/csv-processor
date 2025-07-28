@@ -1,0 +1,5 @@
+Data summary
+============
+Average Age: 29.5
+Total Salary: 227000
+Department Counts: {'HR': 2, 'IT': 2}
